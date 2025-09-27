@@ -1,4 +1,4 @@
-# Analisis Stres Mahasiswa dengan IBM Granite
+# Analisis Mental Health Stress pada Mahasiswa dengan Bantuan IBM Granite
 
 ## 📌 Project Overview
 Stres akademik merupakan masalah umum yang dapat berdampak pada kesehatan mental mahasiswa.  
