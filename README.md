@@ -9,7 +9,9 @@ Proyek ini menggunakan dataset publik untuk menganalisis pola stres mahasiswa da
 - Mengidentifikasi pola stres & faktor penyebab utama.  
 - Memberikan rekomendasi untuk intervensi kesehatan mental yang konkret.  
 
-### 📂 Raw Dataset
+---
+
+## 📂 Raw Dataset
 - **Dataset**: [Student Stress Monitoring Dataset](https://www.kaggle.com/datasets/mdsultanulislamovi/student-stress-monitoring-datasets)  
 - **Jumlah responden**: 843  
 - **Jumlah variabel**: 26 (skala pertanyaan 1–5, termasuk Gender)  
@@ -38,13 +40,13 @@ Analisis dilakukan dengan **IBM Granite Model** melalui Google Colab, digunakan 
 ## 📂 Repository Structure
 ```
 📁 student-stress-analysis
+├── 📈 visualizations/
+|   ├── stress_mean_hist.png
+|   ├── stress_mean_by_gender.png
+|   ├── corr_heatmap.png
+|   ├── question_means.png
+|   └── top_question_dist.png
 ├── 📄 README.md
-├── 📓 analysis.ipynb
-├── 📊 Stress_Dataset.csv
-└── 📈 visualizations/
-    ├── stress_mean_hist.png
-    ├── stress_mean_by_gender.png
-    ├── corr_heatmap.png
-    ├── question_means.png
-    └── top_question_dist.png
+├── 📊 Stress_Dataset.csv 
+└── 📓 analysis.ipynb
 ```
