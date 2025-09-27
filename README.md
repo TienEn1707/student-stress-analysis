@@ -24,7 +24,6 @@ Proyek ini menggunakan dataset publik untuk menganalisis pola stres mahasiswa da
 - **Mayoritas mahasiswa berada di tingkat stres Moderate (89.44%)**.  
 - **Kehadiran kelas berkorelasi signifikan** dengan tingkat stres (pertanyaan dengan skor tertinggi mean = 3.26).  
 - **Tidak ada perbedaan signifikan** antara pria & wanita dalam tingkat stres.  
-- Gejala stres saling berkaitan (misalnya masalah tidur ↔ kecemasan ↔ konsentrasi).  
 
 ---
 
